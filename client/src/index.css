@@ -1,5 +1,4 @@
 /* شبكة المستقبل الأكاديمي: خلفية كحلية عميقة، أزرق USSRC، أخضر نمو، أحمر إشارة، شبكة ضوئية، وحركة محسوبة تعكس الاتصال والتقدم. */
-@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Space+Grotesk:wght@400;500;600;700&display=swap');
 @import "tailwindcss";
 @import "tw-animate-css";
 @custom-variant dark (&:is(.dark *));
